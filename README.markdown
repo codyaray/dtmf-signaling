@@ -1,0 +1,3 @@
+This laboratory introduced a practical application where sinusoidal signals were used to transmit information: a touch-tone dialer. Bandpass FIR ﬁlters were used to extract the information encoded in the waveforms. The goal of this project was to design and implement bandpass FIR ﬁlters in MATLAB, and to do the decoding automatically. Specifically, we developed a MATLAB program to encode and decode the dual-tone multiple-frequency (DTMF) signals used to dial a telephone. 
+
+Please see the [project page](http://codyaray.com/portfolio/dtmf-signaling "DTMF Phone Dialer on CodyARay.com") for details, including a full report.
